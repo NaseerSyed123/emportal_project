@@ -35,7 +35,7 @@ class _SurveyScreenState extends State<SurveyScreen> {
         backgroundColor: Colors.white,
         elevation: 0,
         title: Text(
-          'Survey',
+          'Survey ',
           style: TextStyle(color: Colors.grey[600]),
         ),
         centerTitle: true,
